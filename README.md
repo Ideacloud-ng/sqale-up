@@ -1,4 +1,4 @@
-# flangapp_app
+# scaleUp
 
 A new Flutter project.
 
